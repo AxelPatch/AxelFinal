@@ -1,2 +1,2 @@
-# AxelFinal
-My Final Project for Intro to programming
+# SpaceProgramSample
+CSC102 Code Sample based on UAT's Space Program
